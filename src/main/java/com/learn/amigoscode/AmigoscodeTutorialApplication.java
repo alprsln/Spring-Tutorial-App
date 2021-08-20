@@ -1,4 +1,4 @@
-package com.learn.amigoscodeTutorial;
+package com.learn.amigoscode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

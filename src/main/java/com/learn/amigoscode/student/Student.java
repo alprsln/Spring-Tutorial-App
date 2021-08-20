@@ -1,4 +1,4 @@
-package com.learn.amigoscodeTutorial.student;
+package com.learn.amigoscode.student;
 
 import java.time.LocalDate;
 
