@@ -13,6 +13,7 @@ public class StudentController {
 
 	private final StudentService studentService;
 
+	//Could've used lombok.RequiredArgsConstructor here
 	@Autowired
 	public StudentController(StudentService studentService){
 		this.studentService = studentService;
